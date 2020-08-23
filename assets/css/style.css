@@ -87,7 +87,7 @@ h1, h2, h3, h4, h5, h6 {
 /* small */
 @media (min-width: 320px) and (max-width: 380px) {
   #banners, #banner_slider {
-    height: 10rem;
+    height: 8rem;
   }
 }
 
