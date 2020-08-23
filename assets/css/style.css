@@ -75,7 +75,7 @@ h1, h2, h3, h4, h5, h6 {
 }*/
 
 /* small */
-@media (min-width: 321px) and (max-width: 480px) {
+@media (min-width: 421px) and (max-width: 680px) {
   #banners, #banner_slider {
     height: 12rem;
   }
