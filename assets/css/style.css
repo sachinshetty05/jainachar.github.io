@@ -64,18 +64,11 @@ h1, h2, h3, h4, h5, h6 {
 /*@media (max-width: 320px;) {
   #banners {
     height: 10rem;
-    .banner {
-      &.one,
-      &.two,
-      &.three {
-        height: 10rem;
-      }
-    }
   }
 }*/
 
 /* small */
-@media (min-width: 421px) and (max-width: 680px) {
+@media (min-width: 321px) and (max-width: 380px) {
   #banners, #banner_slider {
     height: 12rem;
   }
